@@ -1,0 +1,15 @@
+F:\Code game\OOP\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.exe
+F:\Code game\OOP\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.deps.json
+F:\Code game\OOP\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.runtimeconfig.json
+F:\Code game\OOP\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.dll
+F:\Code game\OOP\PizzaStore\PizzaStore\bin\Debug\net6.0\PizzaStore.pdb
+F:\Code game\OOP\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.AssemblyReference.cache
+F:\Code game\OOP\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code game\OOP\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfoInputs.cache
+F:\Code game\OOP\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.AssemblyInfo.cs
+F:\Code game\OOP\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CoreCompileInputs.cache
+F:\Code game\OOP\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.dll
+F:\Code game\OOP\PizzaStore\PizzaStore\obj\Debug\net6.0\refint\PizzaStore.dll
+F:\Code game\OOP\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.pdb
+F:\Code game\OOP\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
+F:\Code game\OOP\PizzaStore\PizzaStore\obj\Debug\net6.0\ref\PizzaStore.dll

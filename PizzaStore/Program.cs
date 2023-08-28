@@ -1,3 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using PizzaStore;
+using PizzaStore.Store;
 
-Console.WriteLine("Hello, World!");
+var huePizzaStore = new HUEPizzaStore();
+huePizzaStore.OrderPizza("chesse");
+var dnPizzaStore = new DNPizzaStore();
+dnPizzaStore.OrderPizza("greek");
+var hcmPizzaStore = new HCMPizzaStore();
+hcmPizzaStore.OrderPizza("pepperoni");
+
+
+
